@@ -1,0 +1,27 @@
+[2025-08-07 05:26:49 UTC] Path: /pixel.png, From: 127.0.0.1
+   User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+   Referer: None
+   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+   Host: 6879aa3265ce.ngrok-free.app
+   Connection: None
+   Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app
+   ALL Headers: Host: 6879aa3265ce.ngrok-free.app; User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1; Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8; Accept-Encoding: gzip, deflate, br; Accept-Language: en-GB,en;q=0.9; Cache-Control: max-age=0; Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app; Priority: u=0, i; Sec-Fetch-Dest: document; Sec-Fetch-Mode: navigate; Sec-Fetch-Site: same-origin; X-Forwarded-For: 2401:4900:7dd2:84d:bc0b:2f42:7ce7:7ecb; X-Forwarded-Host: 6879aa3265ce.ngrok-free.app; X-Forwarded-Proto: https
+-------------------------------------------------
+[2025-08-07 05:26:52 UTC] Path: /pixel.png, From: 127.0.0.1
+   User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+   Referer: None
+   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+   Host: 6879aa3265ce.ngrok-free.app
+   Connection: None
+   Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app
+   ALL Headers: Host: 6879aa3265ce.ngrok-free.app; User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1; Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8; Accept-Encoding: gzip, deflate, br; Accept-Language: en-GB,en;q=0.9; Cache-Control: max-age=0; Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app; Priority: u=0, i; Sec-Fetch-Dest: document; Sec-Fetch-Mode: navigate; Sec-Fetch-Site: none; X-Forwarded-For: 2401:4900:7dd2:84d:bc0b:2f42:7ce7:7ecb; X-Forwarded-Host: 6879aa3265ce.ngrok-free.app; X-Forwarded-Proto: https
+-------------------------------------------------
+[2025-08-07 05:26:53 UTC] Path: /pixel.png, From: 127.0.0.1
+   User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+   Referer: None
+   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+   Host: 6879aa3265ce.ngrok-free.app
+   Connection: None
+   Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app
+   ALL Headers: Host: 6879aa3265ce.ngrok-free.app; User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1; Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8; Accept-Encoding: gzip, deflate, br; Accept-Language: en-GB,en;q=0.9; Cache-Control: max-age=0; Cookie: abuse_interstitial=6879aa3265ce.ngrok-free.app; Priority: u=0, i; Sec-Fetch-Dest: document; Sec-Fetch-Mode: navigate; Sec-Fetch-Site: none; X-Forwarded-For: 2401:4900:7dd2:84d:bc0b:2f42:7ce7:7ecb; X-Forwarded-Host: 6879aa3265ce.ngrok-free.app; X-Forwarded-Proto: https
+-------------------------------------------------
